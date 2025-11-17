@@ -1,1 +1,0 @@
-# Smart_Surveillance_Real_Time_Weapon_Detection_System
