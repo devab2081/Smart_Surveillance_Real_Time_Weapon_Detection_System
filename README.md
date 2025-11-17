@@ -35,20 +35,20 @@
 
 When asked:
 
-Enter file name or press enter to start webcam:
+            Enter file name or press enter to start webcam:
 
 For video detection:
 
 Enter:
 
-ak47.mp4
+            ak47.mp4
 
 
 (or any file name)
 
 For live webcam:
 
-Just press Enter.
+            Just press Enter.
 
 📸 Output
 
